@@ -1,0 +1,26 @@
+header{
+    width: 100%;
+}
+.header{
+    background-color: cadetblue;
+    width: 100%;
+    font-size: 28px;
+    
+    }
+/*first row starts from here*/
+.first-row{
+    width: 100%;
+    display: inline;
+}
+
+.first-row-box{
+    width: 28;
+    height: auto;
+    border: 4px  red solid;
+    margin: 8px;
+    
+}
+.first-row-image{
+    width:33%;
+    height: auto;    
+}
