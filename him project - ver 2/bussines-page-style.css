@@ -1,0 +1,50 @@
+header{
+    width: 100%;
+}
+.header{
+    background-color: cadetblue;
+    width: 100%;
+    font-size: 28px;
+    
+    }
+/*first row starts from here*/
+.row{
+    width: 100%;
+}
+
+.first-row-box{
+    width: 28%;
+    height: auto;
+    border: 4px  red solid;
+    margin: 8px;
+    
+}
+.first-row-image{
+    width:70%;
+    height: auto;    
+}
+.content-box-heading
+{
+   border-bottom: solid grey;
+    
+}
+.content{
+    width: 34%;
+    height: auto;
+}
+/*second rows style is starts from here */
+
+.second-row-box{
+    width: 28%;
+    height: auto;
+    border: 4px red solid;
+    margin :8px;
+}
+/*third rows style is starts from here */
+
+.third-row-box{
+    width: 28%;
+    height: auto;
+    border: 4px red solid;
+    margin :8px;
+}
